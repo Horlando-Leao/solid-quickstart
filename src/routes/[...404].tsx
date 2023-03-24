@@ -14,6 +14,7 @@ export default function NotFound() {
         </a>{" "}
         to learn how to build SolidStart apps.
       </p>
+      <img alt="My image" src="https://cinepop.com.br/wp-content/uploads/2019/08/scoob.jpeg">
     </main>
   );
 }
